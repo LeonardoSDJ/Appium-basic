@@ -1,0 +1,6 @@
+com\esporte\appium\PageObjects\PageObjectBase.class
+com\esporte\appium\PageObjects\CadastroPageObject.class
+com\esporte\appium\PageObjects\LoginPageObject.class
+com\esporte\appium\App.class
+com\esporte\appium\PageObjects\TelaInicialPageObject.class
+com\esporte\appium\AppiumDriverConfig.class

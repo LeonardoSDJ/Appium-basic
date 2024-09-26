@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.esporte.appium.FeatureLogin
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 38.008 s <<< FAILURE! - in com.esporte.appium.FeatureLogin
+com.esporte.appium.FeatureLogin.deveFazerLoginComCredenciaisValidas  Time elapsed: 20.948 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.esporte.appium.FeatureLogin.deveFazerLoginComCredenciaisValidas(FeatureLogin.java:30)
+
